@@ -1,4 +1,4 @@
-### Hi there 👋
+## ✨ Kumusta, I'm Janella! ✨
 
 <!--
 **janellacodes/janellacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👾 **Senior Software Engineer** in the startup world <br>
+🫥 Mostly developing in Python, with years of experience in Java <br>
+⚡️ I strive to delete more lines of code than I write <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janellacodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
