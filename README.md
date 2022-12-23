@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👾 **Senior Software Engineer** in the startup world <br>
-🫥 Mostly developing in Python, with years of experience in Java <br>
-⚡️ I strive to delete more lines of code than I write <br>
+👾 **Senior Software Engineer** in the startup world <br/>
+🫥 Mostly developing in Python, with years of experience in Java <br/>
+⚡️ I strive to delete more lines of code than I write <br/>
+
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janellacodes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
